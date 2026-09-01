@@ -19,5 +19,26 @@ namespace Practica_integradora_3
             this.nota1 = nota1;
             this.nota2 = nota2;
         }
+        public float CalcularPromedio()
+        {
+            return (float)((nota1 + nota2) / 2);
+        }
+
+        public bool EstaAprobado()
+        {
+            return CalcularPromedio() >= 6.0;
+        }
+
+        public void SubirNota()
+        {
+            if (nota1 < 10)
+            {
+                nota1++;
+            }
+            if (nota2 < 10)
+            {
+                nota2++;
+            }
+        }
     }
 }
