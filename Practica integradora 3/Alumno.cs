@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Xml;
 using Practica_integradora_3;
 
 namespace Practica_integradora_3
@@ -9,15 +10,13 @@ namespace Practica_integradora_3
     {
         public string nombre;
         public int legajo;
-        public double nota1;
-        public double nota2;
+        private double nota1;
+        private double nota2;
 
-        public Alumno(string nombre, int legajo, double nota1, double nota2)
+        public Alumno(string nombre, int legajo)
         {
             this.nombre = nombre;
             this.legajo = legajo;
-            this.nota1 = nota1;
-            this.nota2 = nota2;
         }
         public float CalcularPromedio()
         {
@@ -39,6 +38,25 @@ namespace Practica_integradora_3
             {
                 nota2++;
             }
+        }
+
+        public bool CargarNotas(double nota1, double nota2)
+        {
+            if(nota1 <= 10 && nota2 <= 10)
+            {
+                this.nota1 = nota1;
+                this.nota2 = nota2;
+                return true;
+            }
+            
+            return false;
+           
+        }
+
+        public override string ToString()
+        {
+            Console.WriteLine(legajo + " - " + nombre + $" (promedio: {CalcularPromedio()})");
+            return base.ToString();
         }
     }
 }
