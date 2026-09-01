@@ -1,0 +1,14 @@
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\bin\Debug\net10.0\Practica integradora 3.exe
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\bin\Debug\net10.0\Practica integradora 3.deps.json
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\bin\Debug\net10.0\Practica integradora 3.runtimeconfig.json
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\bin\Debug\net10.0\Practica integradora 3.dll
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\bin\Debug\net10.0\Practica integradora 3.pdb
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\obj\Debug\net10.0\Practica integradora 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\obj\Debug\net10.0\Practica integradora 3.AssemblyInfoInputs.cache
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\obj\Debug\net10.0\Practica integradora 3.AssemblyInfo.cs
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\obj\Debug\net10.0\Practica integradora 3.csproj.CoreCompileInputs.cache
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\obj\Debug\net10.0\Practica integradora 3.dll
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\obj\Debug\net10.0\refint\Practica integradora 3.dll
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\obj\Debug\net10.0\Practica integradora 3.pdb
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\obj\Debug\net10.0\Practica integradora 3.genruntimeconfig.cache
+C:\Users\jenar\OneDrive\Escritorio\LND 2do Año\APIS\Practica integradora 3\Practica integradora 3\obj\Debug\net10.0\ref\Practica integradora 3.dll
