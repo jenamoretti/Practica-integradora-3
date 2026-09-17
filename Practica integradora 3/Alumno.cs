@@ -1,8 +1,9 @@
 ﻿using System;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Practica_integradora_3
 {
-    public class Alumno : Persona
+    public class Alumno : Persona, IExportable
     {
         private double nota1;
         private double nota2;
@@ -41,6 +42,11 @@ namespace Practica_integradora_3
         public override string Presentarse()
         {
             return $"Hola, soy {nombre}, alumno con legajo {documento}.";
+        }
+
+        public string ExportarLinea()
+        {
+            return $"Alumno:{documento};{nombre};{CalcularPromedio()}";
         }
     }
 }

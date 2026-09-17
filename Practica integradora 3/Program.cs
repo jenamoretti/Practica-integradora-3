@@ -192,15 +192,25 @@ namespace Practica_integradora_3
             //    Console.WriteLine($"Cantidad de alumnos aprobados: {aprobados} de {alumnos.Count}");
             //}
 
-            List<Persona> personas = new List<Persona>();
+            Materia m1 = new Materia("PROG1", "Programación I", 64);
+            Materia m2 = new Materia("BD1", "Análisis I", 48);
 
-            personas.Add(new Alumno("Ana", 1234));
-            personas.Add(new Profesor("Marta", 5678, "Programación"));
-            personas.Add(new Preceptor("Carlos", 9101, "Mañana"));
+            Alumno a1 = new Alumno("Ana", 1234);
+            a1.CargarNotas(8, 9);
 
-            foreach (Persona p in personas)
+            Profesor p1 = new Profesor("Marta", 5678, "Programación I");
+
+            List<IExportable> listaExportables = new List<IExportable>()
             {
-                Console.WriteLine(p.Presentarse());
+                a1,
+                p1,
+                m1,
+                m2
+            };
+
+            foreach (IExportable item in listaExportables)
+            {
+                Console.WriteLine(item.ExportarLinea());
             }
         }
     }

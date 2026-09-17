@@ -2,7 +2,7 @@
 
 namespace Practica_integradora_3
 {
-    public class Profesor : Persona
+    public class Profesor : Persona, IExportable
     {
         public string materia;
 
@@ -14,6 +14,11 @@ namespace Practica_integradora_3
         public override string Presentarse()
         {
             return $"Hola, soy {nombre} y dicto {materia}.";
+        }
+
+        public string ExportarLinea()
+        {
+            return $"Profesor:{documento};{nombre};{materia}";
         }
     }
 }

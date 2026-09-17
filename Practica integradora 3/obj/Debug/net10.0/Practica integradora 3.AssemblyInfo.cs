@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practica integradora 3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b403582359e14789db240d844b0301fde88cae39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd02317ce6aeae3ee8bcfb27acc8602364801f82")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practica integradora 3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practica integradora 3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|c:\\users\\jenar\\onedrive\\escritorio\\lnd 2do a\u00F1o\\apis\\practica integradora 3\\practica integradora 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|solutionrelative:practica integradora 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|c:\\users\\jenar\\onedrive\\escritorio\\lnd 2do a\u00F1o\\apis\\practica integradora 3\\practica integradora 3\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|solutionrelative:practica integradora 3\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|c:\\users\\jenar\\onedrive\\escritorio\\lnd 2do a\u00F1o\\apis\\practica integradora 3\\practica integradora 3\\preceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|solutionrelative:practica integradora 3\\preceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|c:\\users\\jenar\\onedrive\\escritorio\\lnd 2do a\u00F1o\\apis\\practica integradora 3\\practica integradora 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|solutionrelative:practica integradora 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|c:\\users\\jenar\\onedrive\\escritorio\\lnd 2do a\u00F1o\\apis\\practica integradora 3\\practica integradora 3\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|solutionrelative:practica integradora 3\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|c:\\users\\jenar\\onedrive\\escritorio\\lnd 2do a\u00F1o\\apis\\practica integradora 3\\practica integradora 3\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|solutionrelative:practica integradora 3\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|c:\\users\\jenar\\onedrive\\escritorio\\lnd 2do a\u00F1o\\apis\\practica integradora 3\\practica integradora 3\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|solutionrelative:practica integradora 3\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|c:\\users\\jenar\\onedrive\\escritorio\\lnd 2do a\u00F1o\\apis\\practica integradora 3\\practica integradora 3\\iexportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|solutionrelative:practica integradora 3\\iexportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|c:\\users\\jenar\\onedrive\\escritorio\\lnd 2do a\u00F1o\\apis\\practica integradora 3\\practica integradora 3\\preceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|solutionrelative:practica integradora 3\\preceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D327B42-8790-653C-44F5-2F8953D5F9FB}|Practica integradora 3\\Practica integradora 3.csproj|c:\\users\\jenar\\onedrive\\escritorio\\lnd 2do a\u00F1o\\apis\\practica integradora 3\\practica integradora 3\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\Alumno.cs",
               "RelativeDocumentMoniker": "Practica integradora 3\\Alumno.cs",
               "ToolTip": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\Alumno.cs",
               "RelativeToolTip": "Practica integradora 3\\Alumno.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA9wCsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T20:16:32.397Z",
               "IsPinned": true,
@@ -48,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\Persona.cs",
               "RelativeDocumentMoniker": "Practica integradora 3\\Persona.cs",
@@ -57,12 +65,37 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAA1wBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T21:12:10.372Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IExportable.cs",
+              "DocumentMoniker": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\IExportable.cs",
+              "RelativeDocumentMoniker": "Practica integradora 3\\IExportable.cs",
+              "ToolTip": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\IExportable.cs",
+              "RelativeToolTip": "Practica integradora 3\\IExportable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T21:40:35.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\Materia.cs",
+              "RelativeDocumentMoniker": "Practica integradora 3\\Materia.cs",
+              "ToolTip": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\Materia.cs",
+              "RelativeToolTip": "Practica integradora 3\\Materia.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T21:39:27.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Preceptor.cs",
               "DocumentMoniker": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\Preceptor.cs",
               "RelativeDocumentMoniker": "Practica integradora 3\\Preceptor.cs",
@@ -70,8 +103,7 @@
               "RelativeToolTip": "Practica integradora 3\\Preceptor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-17T21:31:15.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-17T21:31:15.955Z"
             },
             {
               "$type": "Document",
@@ -81,20 +113,20 @@
               "RelativeDocumentMoniker": "Practica integradora 3\\Profesor.cs",
               "ToolTip": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\Profesor.cs",
               "RelativeToolTip": "Practica integradora 3\\Profesor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-17T21:15:39.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\Program.cs",
               "RelativeDocumentMoniker": "Practica integradora 3\\Program.cs",
               "ToolTip": "C:\\Users\\jenar\\OneDrive\\Escritorio\\LND 2do A\u00F1o\\APIS\\Practica integradora 3\\Practica integradora 3\\Program.cs",
               "RelativeToolTip": "Practica integradora 3\\Program.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAAAcwMYAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAcwMoAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-01T20:14:16.249Z",
               "EditorCaption": ""
