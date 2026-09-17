@@ -37,5 +37,10 @@ namespace Practica_integradora_3
             }
             return false;
         }
+
+        public override string Presentarse()
+        {
+            return $"Hola, soy {nombre}, alumno con legajo {documento}.";
+        }
     }
 }

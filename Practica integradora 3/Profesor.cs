@@ -10,5 +10,10 @@ namespace Practica_integradora_3
         {
             this.materia = materia;
         }
+
+        public override string Presentarse()
+        {
+            return $"Hola, soy {nombre} y dicto {materia}.";
+        }
     }
 }

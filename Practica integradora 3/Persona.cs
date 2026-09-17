@@ -14,5 +14,10 @@ namespace Practica_integradora_3
             this.nombre = nombre;
             this.documento = documento;
         }
+
+        public virtual string Presentarse()
+        {
+            return $"Hola, soy {nombre}.";
+        }
     }
 }

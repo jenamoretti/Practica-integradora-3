@@ -191,9 +191,17 @@ namespace Practica_integradora_3
 
             //    Console.WriteLine($"Cantidad de alumnos aprobados: {aprobados} de {alumnos.Count}");
             //}
-            Alumno alumno = new Alumno("Juancito", 1234);
-            alumno.CargarNotas(8, 9);
-            Console.WriteLine($"Nombre del alumno: {alumno.nombre}");
+
+            List<Persona> personas = new List<Persona>();
+
+            personas.Add(new Alumno("Ana", 1234));
+            personas.Add(new Profesor("Marta", 5678, "Programación"));
+            personas.Add(new Preceptor("Carlos", 9101, "Mañana"));
+
+            foreach (Persona p in personas)
+            {
+                Console.WriteLine(p.Presentarse());
+            }
         }
     }
 }
